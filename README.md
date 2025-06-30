@@ -31,6 +31,10 @@ repo_rag/
 └── README.md                # Présentation du projet
 ```
 
+## 🎥 Video demonstration
+
+🎥 [Regarde la démo vidéo ici](./video_demo.mp4)
+
 ---
 
 ## 🛠️ Installation
