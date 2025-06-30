@@ -33,7 +33,7 @@ repo_rag/
 
 ## 🎥 Video demonstration
 
-🎥 [Regarde la démo vidéo ici](./video_demo.mp4)
+🎥 [Regarde la démo vidéo ici](./video_demo.mov)
 
 ---
 
